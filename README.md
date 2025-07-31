@@ -14,7 +14,7 @@ const casiendetra = {
 ```
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,tailwindcss,java,php,linux,nextjs,git,github,neovim,vscode)]()## 📊 GitHub Stats
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,tailwindcss,laravel,java,php,linux,nextjs,git,github,neovim,vscode)]()## 📊 GitHub Stats
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=casiendetra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiendetra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=casiendetra&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" /> </div>
 
