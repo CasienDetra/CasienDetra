@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Casien Detra
 
-<!-- Animated typing effect --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=20&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Later+equal+never;Currently+Learning+Web+Development;Always+Learning+Something+New" alt="Typing SVG" /> </p> <!-- Profile views counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=casiendetra&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
 
 ## 🚀 About Me
 
