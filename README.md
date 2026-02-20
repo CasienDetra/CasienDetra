@@ -2,7 +2,7 @@
 
 <h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqOHBkODdpNGN1eWJueHNyczFlcDduYzRtZHQ4eHo5ZjNtZWgyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgotmkigDhPq8R571x/giphy.gif"
-       width="24" align="absmiddle" alt="pulse" />
+       width="34" align="absmiddle" alt="pulse" />
   &nbsp;Ayo :
 </h3>
 
@@ -10,7 +10,7 @@
   <img
     align="right"
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqOHBkODdpNGN1eWJueHNyczFlcDduYzRtZHQ4eHo5ZjNtZWgyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7kpFDc1mYqDnD3hh1/giphy.gif"
-    width="340"
+    width="320"
     alt="Ponyo"
   />
 </a>
@@ -22,7 +22,7 @@
 <br clear="both"/>
 
 <h2 align="left">
-  <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
+  <img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle" />
   <span style="margin-left:6px;">Tech Stack :</span>
 </h2>
 
