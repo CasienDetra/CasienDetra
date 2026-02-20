@@ -9,9 +9,9 @@
 <a href="https://github.com/CasienDetra">
   <img
     align="right"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqOHBkODdpNGN1eWJueHNyczFlcDduYzRtZHQ4eHo5ZjNtZWgyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7kpFDc1mYqDnD3hh1/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG5rbDR6cmVoYXFpejU0d2N2aW9wd3U2aHdhNmhydXYxenN4eXVrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E549VaHiMjknS/giphy.gif"
     width="320"
-    alt="Ponyo"
+    alt="totoro"
   />
 </a>
 
