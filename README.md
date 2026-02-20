@@ -1,6 +1,5 @@
 <h2 align="center">What in the world</h2>
 
-<!-- AYO AT VERY TOP -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqOHBkODdpNGN1eWJueHNyczFlcDduYzRtZHQ4eHo5ZjNtZWgyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgotmkigDhPq8R571x/giphy.gif"
        width="24"
@@ -11,19 +10,27 @@
 
 <br/>
 
-<!-- ONE ROW TWO COLUMNS -->
 <table align="center">
   <tr>
-    <!-- LEFT COLUMN -->
     <td align="center" width="50%">
-      <a href="https://github.com/CasienDetra/github-readme-stats?tab=readme-ov-file#top-languages-card">
+
+      <a href="https://github.com/CasienDetra/github-readme-stats">
         <img width="365"
-             alt="Top Language"
              src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=CasienDetra&layout=compact&title_color=aba6f7&theme=gruvbox&border_color=45475a"/>
       </a>
+
+      <br/><br/>
+
+      <b>Tech Stack</b>
+      <br/><br/>
+
+      <a href="https://react.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+             height="40" />
+      </a>
+
     </td>
 
-    <!-- RIGHT COLUMN -->
     <td align="center" width="50%">
       <img
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqOHBkODdpNGN1eWJueHNyczFlcDduYzRtZHQ4eHo5ZjNtZWgyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7kpFDc1mYqDnD3hh1/giphy.gif"
