@@ -20,15 +20,6 @@
       </a>
 
       <br/><br/>
-
-      <b>Tech Stack</b>
-      <br/><br/>
-
-      <a href="https://react.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-             height="40" />
-      </a>
-
     </td>
 
     <td align="center" width="50%">
