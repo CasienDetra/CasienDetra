@@ -10,7 +10,7 @@
   <img
     align="right"
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG5rbDR6cmVoYXFpejU0d2N2aW9wd3U2aHdhNmhydXYxenN4eXVrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E549VaHiMjknS/giphy.gif"
-    width="320"
+    width="340"
     alt="totoro"
   />
 </a>
