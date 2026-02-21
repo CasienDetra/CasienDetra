@@ -17,7 +17,7 @@
 
 
 
-<a href="https://github.com/CasienDetra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="365" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=CasienDetra&layout=compact&title_color=aba6f7&theme=gruvbox&border_color=45475a&cache_seconds=0"/></a>
+<a href="https://github.com/CasienDetra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="365" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=CasienDetra&layout=compact&title_color=aba6f7&theme=gruvbox&border_color=45475a&cache_seconds=0&langs_count=9"/></a>
 
 <br clear="both"/>
 
