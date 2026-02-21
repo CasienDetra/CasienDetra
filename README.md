@@ -19,12 +19,17 @@
 
 <a href="https://github.com/CasienDetra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="365" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=CasienDetra&layout=compact&title_color=aba6f7&theme=gruvbox&border_color=45475a&cache_seconds=0&langs_count=9"/></a>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CasienDetra&theme=gruvbox-duo&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 <br clear="both"/>
+
+
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle" />
   <span style="margin-left:6px;">Tech Stack :</span>
 </h2>
+
 
 <div align="left">
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> -->
