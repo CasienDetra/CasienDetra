@@ -89,24 +89,7 @@
 <!-- </div> -->
 <!---->
 <!---->
-<!-- <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect - </h3> -->
-<!---->
-<!-- <table width="120" align="left"> -->
-<!--   <tr>   -->
-<!--     <td align="center" width="60"> -->
-<!--       <a href="https://x.com/Abhinavstwt"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a> -->
-<!--     </td> -->
-<!--     <td align="center" width="60"> -->
-<!--       <a href="https://linkedin.com/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a> -->
-<!--     </td> -->
-<!--     <td align="center" width="60"> -->
-<!--       <a href="mailto:abhinavkale919913@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a> -->
-<!--     </td> -->
-<!--     <td align="center" width="60"> -->
-<!--       <a href="https://drive.google.com/file/d/1dhF0Cgaec0zOatK4N7NAfenpIli0GkQU/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a> -->
-<!--     </td> -->
-<!--   </tr> -->
-<!-- </table> -->
+>
 <!-- <br /> -->
 <!-- <br /> -->
 <!---->
