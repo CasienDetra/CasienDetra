@@ -40,10 +40,10 @@
   <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" -->
   <!--        alt="TypeScript" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" /> -->
   <!-- </a> -->
-  <a href="https://react.dev/" target="_blank">
+  <!-- <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
          alt="React" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
+  </a> -->
 <!--   <a href="https://nextjs.org/" target="_blank"> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" -->
 <!--          alt="Next.js" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;background:white;border-radius:6px;padding:3px;" /> -->
@@ -89,7 +89,7 @@
 <!-- </div> -->
 <!---->
 <!---->
->
+
 <!-- <br /> -->
 <!-- <br /> -->
 <!---->
